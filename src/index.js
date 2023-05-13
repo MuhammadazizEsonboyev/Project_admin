@@ -9,7 +9,3 @@ root.render(
   </React.StrictMode>
 
 );
-
-
-);
-
