@@ -8,9 +8,4 @@ root.render(
   <React.StrictMode>
     <App />
   </React.StrictMode>
-<<<<<<< 
-
 );
-=======
-)
->>>>>>> 8826dd361243e2a49645a1651fdd3543cfc7418a
