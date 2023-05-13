@@ -1,13 +1,12 @@
 import './App.css';
+import Menu from './Components/Menu/Menu';
 
 function App() {
   return (
     <>
-
-      <h1>Hello World</h1>
-
+      <Menu/>
     </>
-  );
+  )
 }
 
 export default App;
